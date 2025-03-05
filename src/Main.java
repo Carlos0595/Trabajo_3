@@ -4,10 +4,11 @@ public class Main {
         method2();
         method3();
         method4();
-
+        System.out.println("Bye World!");
     }
     private static void method1(){
-
+        System.out.println("Carlos Patricio");
+        System.out.println("Carlos Patricio");
     }
     private static void method2(){
 
