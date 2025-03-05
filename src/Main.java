@@ -7,7 +7,7 @@ public class Main {
 
     }
     private static void method1(){
-
+        System.out.println("Carlos Patricio");
     }
     private static void method2(){
 
