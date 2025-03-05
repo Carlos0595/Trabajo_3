@@ -11,6 +11,7 @@ public class Main {
         System.out.println("Slava");
     }
     private static void method2(){
+        System.out.println("Manuela");
 
     }
 
