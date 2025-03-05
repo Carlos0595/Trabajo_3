@@ -8,6 +8,7 @@ public class Main {
     }
     private static void method1(){
         System.out.println("Carlos Patricio");
+        System.out.println("Manuel");
         System.out.println("Slava");
     }
     private static void method2(){
@@ -20,4 +21,4 @@ public class Main {
     private static void method4(){
 
     }
-    }
+}
